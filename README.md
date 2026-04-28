@@ -14,3 +14,6 @@ This project is based off the regularly published by the popular job portal, See
 1) To use this pbix download the latest seek data, remove the introduction tab.
 2) I've kept the xlsx file AU_PUBLISHED_DATASET 01-08-2025 you may wish to overwrite the most recent xlsx seek download to this (for convenience) or write a parameter in powerquery.
 3) Open up the pbix, and enter powerquery. Next, refresh all.
+
+**Example report**
+<img width="1230" height="903" alt="image" src="https://github.com/user-attachments/assets/a545e33d-da76-4fb0-b8fd-e80376a02ee1" />
